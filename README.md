@@ -71,8 +71,11 @@ flutter run
    - Valor de cada parcela  
    - Valor total a ser pago  
 
----
+
+
 
 ## Prints do Aplicativo
-
+---<img width="1919" height="907" alt="pag1" src="https://github.com/user-attachments/assets/b3fa1e4b-4264-431c-bbdb-7be563b21518" />
+<img width="1919" height="890" alt="pag2" src="https://github.com/user-attachments/assets/c69163c8-cd4e-44b8-af9f-6904b1286fdc" />
+<img width="1917" height="904" alt="pag3" src="https://github.com/user-attachments/assets/ec8644a6-a8d4-485e-91c9-e7859399f6f4" />
 
