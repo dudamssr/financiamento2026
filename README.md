@@ -69,3 +69,6 @@ As imagens do aplicativo estão armazenadas na pasta `assets/`.
 <img width="1919" height="890" alt="pag2" src="https://github.com/user-attachments/assets/c69163c8-cd4e-44b8-af9f-6904b1286fdc" />
 <img width="1917" height="904" alt="pag3" src="https://github.com/user-attachments/assets/ec8644a6-a8d4-485e-91c9-e7859399f6f4" />
 
+
+## Link do Aplicativo no Figma
+https://www.figma.com/design/sfEQ24kxITAujBLGShsdiY/Simulador-de-Financiamento?node-id=0-1&t=hdZ0PssDf8TWH68M-1
