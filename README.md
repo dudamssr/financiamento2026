@@ -23,8 +23,8 @@ E o sistema retorna:
 As imagens do aplicativo estão armazenadas na pasta `assets/`.
 
 ```md
-![Tela inicial](./assets/tela1.png)
-![Resultado](./assets/tela2.png)
+ - Tela inicial(./assets/tela1.png)
+-  Resultado](./assets/tela2.png)
 ```
 
 ---
