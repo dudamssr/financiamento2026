@@ -72,3 +72,7 @@ flutter run
    - Valor total a ser pago  
 
 ---
+
+## Prints do Aplicativo
+
+
