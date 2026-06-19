@@ -30,7 +30,7 @@ E o sistema retorna:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/simulador-financiamento.git
+git clone https://github.com/dudamssr/financiamento2026.git
 ```
 
 2. Acesse a pasta do projeto:
